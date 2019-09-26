@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM rajaduraivka/python:latest
+FROM rajaduraivka19/python:latest
 
 MAINTAINER RAJADURAI VKA
 
